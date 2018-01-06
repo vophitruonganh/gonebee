@@ -1,22 +1,29 @@
-# gonebee
+# README #
 
-> Nuxt.js project
+This README would normally document whatever steps are necessary to get your application up and running.
 
-## Build Setup
+### What is this repository for? ###
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+### How do I get set up? ###
 
-# build for production and launch server
-$ npm run build
-$ npm start
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
 
-# generate static project
-$ npm run generate
-```
+### Contribution guidelines ###
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
